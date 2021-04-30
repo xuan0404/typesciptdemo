@@ -1,8 +1,8 @@
-function jspang(){
-    let web: string = "hello word";
-    console.log(web);
-}
-jspang();
+// function jspang(){
+//     let web: string = "hello word";
+//     console.log(web);
+// }
+// jspang();
 let count : number = 1;
 interface xiaojiejie {
     uname: string,
